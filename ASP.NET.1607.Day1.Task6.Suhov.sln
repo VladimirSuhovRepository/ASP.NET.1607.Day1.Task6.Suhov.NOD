@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET.1607.Day1.Task6.Suh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET.1607.Day1.Task6.Suhov.Tests", "ASP.NET.1607.Day1.Task6.Suhov.Tests\ASP.NET.1607.Day1.Task6.Suhov.Tests.csproj", "{4DAF97AC-85EC-4488-8C98-956ED87B5CCB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BCF56BBE-10F0-4C1A-9D4C-5480A0F4252D}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
