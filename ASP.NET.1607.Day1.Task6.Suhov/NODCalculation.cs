@@ -17,7 +17,7 @@ namespace ASP.NET._1607.Day1.Task6.Suhov
         /// <summary>
         /// Calculate the greatest common divisor by Euclidean algorithm
         /// </summary>
-        /// <param name="a">The first number</param>
+        /// <param name="a">The first number </param>
         /// <param name="b">The second number</param>
         /// <returns>The greatest common divisor</returns>
         public static long Euclidean(long a, long b) => Calculate(a, b, EuclideanCalculate);
